@@ -1,0 +1,52 @@
+stateName,policy_sexSelection,policy_raceSelection,policy_geneticAnomaly,policy_dialationBanned,policy_dialationException,policy_partialBirthBanned,policy_partialBirthHealthException,policy_partialBirthLifeException
+Arizona,yes,yes,"Law is temporarily enjoined, policy is not in effect.",,,,,
+Arkansas,yes,no,"Law is temporarily enjoined, policy is not in effect.",,,,,
+Illinois,"Enforcement permanently enjoined by court order; policy not in effect. Illinois's ban applies after viability; in 1993, a federal court enjoined the portion of the bill that applies before viability.",no,no,,,,,
+Indiana,Enforcement permanently enjoined by court order; policy not in effect.,Enforcement permanently enjoined by court order; policy not in effect.,Enforcement permanently enjoined by court order; policy not in effect.,,,,,
+Kansas,yes,no,"Minnesota and Oklahoma require counseling on perinatal hospice services if an abortion is sought due to a lethal fetal abnormality. Arizona requires counseling about perinatal hospice services if an abortion is sought due to a lethal fetal abnormality, as well as counseling on outcomes for those living with the condition that the fetus is diagnosed with if the abortion is sought for a nonlethal fetal condition. Kansas requires counseling on perinatal hospice services before all abortions.",,,,,
+Kentucky,"Law is temporarily enjoined, policy is not in effect.","Law is temporarily enjoined, policy is not in effect.","Law is temporarily enjoined, policy is not in effect.",,,,,
+Louisiana,no,no,"Law is temporarily enjoined, policy is not in effect.",,,,,
+Minnesota,no,no,"Minnesota and Oklahoma require counseling on perinatal hospice services if an abortion is sought due to a lethal fetal abnormality. Arizona requires counseling about perinatal hospice services if an abortion is sought due to a lethal fetal abnormality, as well as counseling on outcomes for those living with the condition that the fetus is diagnosed with if the abortion is sought for a nonlethal fetal condition. Kansas requires counseling on perinatal hospice services before all abortions.",,,,,
+Mississippi,yes,yes,yes,,,,,
+Missouri,yes,yes,yes,,,,,
+North Carolina,yes,yes,yes,,,,,
+North Dakota,yes,no,yes,,,,,
+Ohio,no,no,yes,,,,,
+Oklahoma,yes,no,"Minnesota and Oklahoma require counseling on perinatal hospice services if an abortion is sought due to a lethal fetal abnormality. Arizona requires counseling about perinatal hospice services if an abortion is sought due to a lethal fetal abnormality, as well as counseling on outcomes for those living with the condition that the fetus is diagnosed with if the abortion is sought for a nonlethal fetal condition. Kansas requires counseling on perinatal hospice services before all abortions.",,,,,
+Pennsylvania,yes,no,no,,,,,
+South Dakota,yes,no,yes,,,,,
+Tennessee,yes,yes,yes,,,,,
+Utah,no,no,Utah's ban will only take effect if a court decision allows states to ban abortion in these cases.,,,,,
+Alabama,,,,Permanently enjoined by court order; law not in effect.,Permanently enjoined by court order; law not in effect.,Permanently enjoined by court order; law not in effect.,no,no
+Alaska,,,,no,no,Permanently enjoined by court order; law not in effect.,no,no
+Arizona,,,,no,no,yes,no,yes
+Arkansas,,,,Temporarily enjoined by court order; law not in effect.,Temporarily enjoined by court order; law not in effect.,yes,no,yes
+Florida,,,,no,no,Permanently enjoined by court order; law not in effect.,no,no
+Georgia,,,,no,no,yes. Law applies after viability.,yes. Law applies after viability.,no
+Idaho,,,,no,no,Permanently enjoined by court order; law not in effect.,no,no
+Illinois,,,,no,no,no,no,no
+Indiana,,,,NA,NA,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court.",no,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court."
+Iowa,,,,no,no,Permanently enjoined by court order; law not in effect.,no,no
+Kansas,,,,Temporarily enjoined by court order; law not in effect.,Temporarily enjoined by court order; law not in effect.,yes,no,yes
+Kentucky,,,,Permanently enjoined by court order; law not in effect.,Permanently enjoined by court order; law not in effect.,Permanently enjoined by court order; law not in effect.,no,no
+Louisiana,,,,Temporarily enjoined by court order; law not in effect.,Temporarily enjoined by court order; law not in effect.,yes,no,yes
+Michigan,,,,no,no,yes,no,yes
+Mississippi,,,,yes,yes,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court.",no,no
+Missouri,,,,no,no,yes,no,yes
+Montana,,,,Temporarily enjoined by court order; law not in effect.,Temporarily enjoined by court order; law not in effect.,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court. Law applies after viability.",no,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court. Law applies after viability."
+Nebraska,,,,yes,yes,Permanently enjoined by court order; law not in effect.,no,no
+New Hampshire,,,,no,no,yes,no,yes
+New Jersey,,,,no,no,Permanently enjoined by court order; law not in effect.,no,no
+New Mexico,,,,no,no,yes. Law applies after viability.,yes. Law applies after viability.  The health exception only applies to severe physical health conditions.,no
+North Dakota,,,,no,no,yes,no,yes
+Ohio,,,,Temporarily enjoined by court order; law not in effect.,Temporarily enjoined by court order; law not in effect.,yes,yes. The health exception only applies to severe physical health conditions.,no
+Oklahoma,,,,Temporarily enjoined by court order; law not in effect.,Temporarily enjoined by court order; law not in effect.,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court.",no,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court."
+Rhode Island,,,,no,no,Permanently enjoined by court order; law not in effect.,no,no
+South Carolina,,,,no,no,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court.",no,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court."
+South Dakota,,,,no,no,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court.",no,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court."
+Tennessee,,,,no,no,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court.",no,"This policy is presumably unenforceable under the terms set out in Stenberg v. Carhart; however, it has not been challenged in court."
+Texas,,,,Permanently enjoined by court order; law not in effect.,Permanently enjoined by court order; law not in effect.,yes,no,yes
+Utah,,,,no,no,yes,no,yes
+Virginia,,,,no,no,yes,no,yes
+West Virginia,,,,yes,yes,Permanently enjoined by court order; law not in effect.,no,no
+Wisconsin,,,,no,no,Permanently enjoined by court order; law not in effect.,no,no

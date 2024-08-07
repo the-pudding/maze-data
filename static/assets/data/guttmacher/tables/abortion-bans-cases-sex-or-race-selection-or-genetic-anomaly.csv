@@ -1,0 +1,19 @@
+stateName,policy_sexSelection,policy_raceSelection,policy_geneticAnomaly
+Arizona,yes,yes,"Law is temporarily enjoined, policy is not in effect."
+Arkansas,yes,no,"Law is temporarily enjoined, policy is not in effect."
+Illinois,"Enforcement permanently enjoined by court order; policy not in effect. Illinois's ban applies after viability; in 1993, a federal court enjoined the portion of the bill that applies before viability.",no,no
+Indiana,Enforcement permanently enjoined by court order; policy not in effect.,Enforcement permanently enjoined by court order; policy not in effect.,Enforcement permanently enjoined by court order; policy not in effect.
+Kansas,yes,no,"Minnesota and Oklahoma require counseling on perinatal hospice services if an abortion is sought due to a lethal fetal abnormality. Arizona requires counseling about perinatal hospice services if an abortion is sought due to a lethal fetal abnormality, as well as counseling on outcomes for those living with the condition that the fetus is diagnosed with if the abortion is sought for a nonlethal fetal condition. Kansas requires counseling on perinatal hospice services before all abortions."
+Kentucky,"Law is temporarily enjoined, policy is not in effect.","Law is temporarily enjoined, policy is not in effect.","Law is temporarily enjoined, policy is not in effect."
+Louisiana,no,no,"Law is temporarily enjoined, policy is not in effect."
+Minnesota,no,no,"Minnesota and Oklahoma require counseling on perinatal hospice services if an abortion is sought due to a lethal fetal abnormality. Arizona requires counseling about perinatal hospice services if an abortion is sought due to a lethal fetal abnormality, as well as counseling on outcomes for those living with the condition that the fetus is diagnosed with if the abortion is sought for a nonlethal fetal condition. Kansas requires counseling on perinatal hospice services before all abortions."
+Mississippi,yes,yes,yes
+Missouri,yes,yes,yes
+North Carolina,yes,yes,yes
+North Dakota,yes,no,yes
+Ohio,no,no,yes
+Oklahoma,yes,no,"Minnesota and Oklahoma require counseling on perinatal hospice services if an abortion is sought due to a lethal fetal abnormality. Arizona requires counseling about perinatal hospice services if an abortion is sought due to a lethal fetal abnormality, as well as counseling on outcomes for those living with the condition that the fetus is diagnosed with if the abortion is sought for a nonlethal fetal condition. Kansas requires counseling on perinatal hospice services before all abortions."
+Pennsylvania,yes,no,no
+South Dakota,yes,no,yes
+Tennessee,yes,yes,yes
+Utah,no,no,Utah's ban will only take effect if a court decision allows states to ban abortion in these cases.
