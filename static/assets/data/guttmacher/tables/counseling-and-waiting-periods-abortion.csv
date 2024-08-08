@@ -1,0 +1,36 @@
+stateName,policy_waitingPeriodHours,policy_twoInPersonTrips,policy_writtenMaterials,policy_informedCoercion,policy_specificDescription,policy_commonDescription,policy_gestationalAge,policy_throughoutPregnacy,policy_fetalPain,policy_personhood
+Alabama,48,,given,"verbal counseling, written materials",verbal counseling,written materials,verbal counseling,written materials,,
+Alaska,,,offered,,verbal counseling,written materials,verbal counseling,written materials,written materials. Included in written counseling materials although not specifically mandated by state law.,
+Arizona,24,yes,offered,"verbal counseling, written materials",verbal counseling,written materials,verbal counseling,written materials,,
+Arkansas,72,yes,offered,"verbal counseling, written materials",verbal counseling,written materials,verbal counseling,written materials,"verbal counseling, written materials. Information given only to patients who are at 20 weeks of pregnancy or later; in Missouri, the law applies starting at 16 weeks of pregnancy. In Utah, a physician may waive the requirement if the abortion is because of rape, incest, life endangerment, a severe health problem or if the fetus has a lethal condition.",
+Florida,24,yes,offered,,verbal counseling,,verbal counseling,written materials,,
+Georgia,24,,offered,,,written materials,verbal counseling,written materials,written materials,
+Idaho,24,,given,written materials,verbal counseling,written materials,,written materials,,
+Indiana,18,yes,given,,verbal counseling,written materials,verbal counseling,written materials,NA,verbal counseling
+Iowa,24,yes,offered,,verbal counseling,"verbal counseling, written materials",,,,
+Kansas,24,,given,written materials,verbal counseling,written materials,verbal counseling,written materials,written materials,written materials
+Kentucky,24,yes,offered,,verbal counseling,,verbal counseling,written materials,,
+Louisiana,"24. Temporarily enjoined; policy not in effect. (In Louisiana, enforcement of a 72-hour waiting period is blocked; the 24-hour waiting period remains in effect.)",yes,given,written materials,verbal counseling,written materials,verbal counseling,written materials,"verbal counseling, written materials",
+Massachusetts,Permanently enjoined by court order; policy not in effect.,,,,,,,,,
+Michigan,24,,given,"verbal counseling, written materials","verbal counseling, written materials",,"verbal counseling, written materials",written materials,,
+Minnesota,24,,offered,,,written materials,verbal counseling,written materials,NA,
+Mississippi,24,yes,offered,,verbal counseling,written materials. Included in written counseling materials although not specifically mandated by state law.,verbal counseling,written materials,,
+Missouri,72,yes,given,written materials,"verbal counseling, written materials",written materials,"verbal counseling, written materials",written materials,"written materials. Information given only to patients who are at 20 weeks of pregnancy or later; in Missouri, the law applies starting at 16 weeks of pregnancy. In Utah, a physician may waive the requirement if the abortion is because of rape, incest, life endangerment, a severe health problem or if the fetus has a lethal condition.",written materials
+Montana,Permanently enjoined by court order; policy not in effect.,,,,,,,,,
+Nebraska,24,,offered,,,written materials,verbal counseling,written materials,,
+North Carolina,72,yes,offered,verbal counseling,verbal counseling,written materials,verbal counseling,written materials,,
+North Dakota,24,,offered,written materials,,written materials,verbal counseling,written materials,,verbal counseling
+Ohio,24,yes,given,,verbal counseling,,verbal counseling,written materials,,
+Oklahoma,72,,offered,,verbal counseling,written materials,verbal counseling,written materials,NA,written materials
+Pennsylvania,24,,offered,written materials,verbal counseling,written materials,verbal counseling,written materials,,
+South Carolina,24,,offered,,verbal counseling,written materials,verbal counseling,written materials,written materials,
+South Dakota,72. The law prohibits the inclusion of weekends and annual state holidays as part of the waiting period.,yes,given,verbal counseling,,written materials,verbal counseling,written materials,written materials. Included in written counseling materials although not specifically mandated by state law.,
+Tennessee,48,yes,,,,,verbal counseling,,,
+Texas,24,yes. In-person counseling is not required for patients who live more than 100 miles from an abortion provider.,offered,written materials. Included in written counseling materials although not specifically mandated by state law.,,written materials. Included in written counseling materials although not specifically mandated by state law.,verbal counseling,written materials,written materials. Included in written counseling materials although not specifically mandated by state law.,
+Utah,72,NA,given,written materials,verbal counseling,written materials,verbal counseling,written materials,"verbal counseling, written materials. Information given only to patients who are at 20 weeks of pregnancy or later; in Missouri, the law applies starting at 16 weeks of pregnancy. In Utah, a physician may waive the requirement if the abortion is because of rape, incest, life endangerment, a severe health problem or if the fetus has a lethal condition.",
+West Virginia,24,,offered,written materials. Included in written counseling materials although not specifically mandated by state law.,,written materials,verbal counseling,written materials,,
+Wisconsin,24,yes,given,"verbal counseling, written materials",verbal counseling,written materials,verbal counseling,written materials,written materials. Included in written counseling materials although not specifically mandated by state law.,
+Connecticut,,,,,verbal counseling,,verbal counseling,,,
+Maine,,,,,verbal counseling,,verbal counseling,,,
+Nevada,,,,,verbal counseling,,verbal counseling,,,
+Rhode Island,,,,,verbal counseling,,verbal counseling,,,

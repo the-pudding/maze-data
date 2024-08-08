@@ -2,7 +2,8 @@
 	"name": "svelte-starter",
 	"version": "5.20.0",
 	"scripts": {
-		"getTables": "node tasks/guttmacher-table.js",
+		"guttTables": "node tasks/guttmacher-table.js",
+		"guttFetch": "node tasks/guttmacher-fetch.js",
 		"gdoc": "node tasks/fetch-google.js",
 		"style": "node tasks/style-dictionary.js",
 		"dev": "vite dev",
